@@ -1,0 +1,6 @@
+This is line 1.
+This is line 2 with number 42.
+Line 3 contains the word 'Python'.
+This is appended line 4.
+This is appended line 5 with the number 88.
+Appended line 6 mentions 'coding'.
